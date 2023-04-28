@@ -10,6 +10,8 @@ public class AtmApp {
         //version4
         System.out.println("sema branchı kodlarını yazdı");
         //sema1
+        System.out.println("");
+        //sema3
 
     }
 }
