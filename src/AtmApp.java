@@ -13,8 +13,9 @@ public class AtmApp {
         System.out.println("");
         //sema3
         System.out.println("");
-        if (true){}
+        if (true){
         System.out.println();
-
+         }
+        //remote repoda degişiklik yaptım.
     }
 }
