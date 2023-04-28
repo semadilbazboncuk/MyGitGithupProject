@@ -12,6 +12,9 @@ public class AtmApp {
         //sema1
         System.out.println("");
         //sema3
+        System.out.println("");
+        if (true){}
+        System.out.println();
 
     }
 }
